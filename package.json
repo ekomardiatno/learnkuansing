@@ -1,0 +1,37 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekomardiatno/learnkuansing.git"
+  },
+  "keywords": [
+    "learn",
+    "bower",
+    "gulp"
+  ],
+  "author": "Eko Mardiatno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekomardiatno/learnkuansing/issues"
+  },
+  "homepage": "https://github.com/ekomardiatno/learnkuansing#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-file-include": "^1.0.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.1.0",
+    "gulp-sequence": "^0.4.6",
+    "gulp-uglify": "^2.0.0"
+  }
+}

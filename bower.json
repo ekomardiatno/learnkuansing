@@ -1,0 +1,27 @@
+{
+  "name": "learn",
+  "homepage": "komabikinweb.cf",
+  "authors": [
+    "Eko Mardiatno"
+  ],
+  "description": "learn",
+  "main": "",
+  "keywords": [
+    "learn",
+    "bower",
+    "gulp"
+  ],
+  "license": "KOMA-FW",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.7",
+    "font-awesome": "fontawesome#~4.7.0",
+    "jquery": "~3.3.1"
+  }
+}
